@@ -8,3 +8,5 @@ day 1:
 
 
 day 2:
+    1. Type Conversions
+    2. Learning About Functions
